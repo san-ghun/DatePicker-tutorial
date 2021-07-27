@@ -1,3 +1,3 @@
 # DatePicker-tutorial
 
-Practicing Target-Action Design Pattern
+to understand Target-Action Design Pattern
